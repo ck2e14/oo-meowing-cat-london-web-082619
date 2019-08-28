@@ -4,4 +4,5 @@ class Cat
 end 
 
 def meow
-  puts ""
+  puts "meow!"
+end
